@@ -1,0 +1,27 @@
+{
+    "manifest": {
+        "author": "Dark・MD 3.0ᴺᴴ#4452",
+        "name": "OriginalAliuVision",
+        "version": "1.0.0",
+        "updater": "https:\/\/raw.githubusercontent.com\/MDOP694\/OriginalAliuVision\/main\/OriginalAliuVision.json"
+    },
+    "background": {
+        "url": "https:\/\/media.discordapp.net\/attachments\/811255667469582420\/895130053342556160\/unknown.jpeg",
+        "blur_radius": 0,
+        "overlay_alpha": 75
+    },
+    "fonts": {},
+    "simple_colors": {
+        "background": -16579837,
+        "background_secondary": -8288631,
+        "mention_highlight": -10612801,
+        "active_channel": -10022698,
+        "accent": -9235584
+    },
+    "colors": {
+        "primary_dark_660": -16185079,
+        "uikit_btn_bg_color_selector_green": -15265413,
+        "uikit_btn_bg_color_selector_red": -15659900
+    },
+    "drawable_tints": {}
+}
